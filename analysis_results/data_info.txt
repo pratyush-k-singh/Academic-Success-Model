@@ -1,0 +1,3 @@
+Train data null value count: 0
+Test data null value count: 0
+Duplicate rows in train data: 0
